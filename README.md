@@ -1,0 +1,2 @@
+# exampilistic
+The exampilistic wiki
