@@ -41,3 +41,6 @@ User stories are not simple MD files anymore, they now have a workflow (planned 
 ## Goal: Guide the User when Writing Tests
 
 ## Goal: Code Generator for Tests
+
+## Goal: Run new test cases immediately, from the test management tool
+
